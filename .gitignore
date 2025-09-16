@@ -1,0 +1,81 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/eshop-distributed/DesignTimeBuild/.dtbcache.v2
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Rider / VS Code / IDE settings
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+# Visual Studio cache
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Azure
+*.azurePubxml
+*.publishsettings
+
+# Others
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+
+# Test results
+*.TestResult.xml
+TestResult/
+TestResults/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User secrets
+secrets.json
+
+# Entity Framework
+*.jfm
+
+# Logs
+*.log
+
+# Coverage
+coverage*.json
+coverage*.xml
+coverage*.info
