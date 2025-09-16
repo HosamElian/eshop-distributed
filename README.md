@@ -86,8 +86,6 @@ Vector-based embeddings for product search
 Personalized recommendations for users
 
 📦 Project Structure
-css
-Copy code
 ├── src/
 │   ├── CatalogService/
 │   ├── BasketService/
@@ -98,6 +96,7 @@ Copy code
 │   ├── docker-compose.yml
 │   └── azure-deployment/
 └── README.md
+
 🌐 Deployment
 Local development with Docker and .NET Aspire
 
