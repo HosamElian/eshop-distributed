@@ -86,16 +86,16 @@ Vector-based embeddings for product search
 Personalized recommendations for users
 
 📦 Project Structure
-├── src/
-│   ├── CatalogService/
-│   ├── BasketService/
-│   ├── BlazorClient/
-│   ├── Shared/
-│   └── Aspire.AppHost/
-├── infra/
-│   ├── docker-compose.yml
-│   └── azure-deployment/
-└── README.md
+- **src/**
+  - CatalogService/
+  - BasketService/
+  - BlazorClient/
+  - Shared/
+  - Aspire.AppHost/
+- **infra/**
+  - docker-compose.yml
+  - azure-deployment/
+- **README.md**
 
 🌐 Deployment
 Local development with Docker and .NET Aspire
